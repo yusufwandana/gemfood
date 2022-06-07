@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar{
+    @apply sticky top-0 z-50 flex justify-between items-center h-16 bg-black shadow-sm font-mono;
+}
+
+.navbar-link{
+    @apply px-4 py-2 mx-2 uppercase text-lg text-white border-2 border-transparent font-bold;
+}
+
+.navbar-link:hover{
+    @apply border-2 border-white rounded-2xl duration-300;
+}
+
+.dropdown.active{
+    @apply grid grid-rows-4 text-center sticky top-16 z-40 items-center bg-black opacity-90 font-bold;
+}
+
+.navbar-dropdown-link{
+    @apply p-4 uppercase text-white;
+}
+
+.navbar-dropdown-link:hover{
+    @apply bg-yellow-300;
+}
+
+.menu-card{
+    @apply flex flex-col justify-center items-center bg-white h-screen font-mono py-40;
+}
+
+.image-card{
+    @apply h-full rounded mb-20 shadow;
+}
+
+.content-card{
+    @apply flex flex-col justify-center items-center;
+}

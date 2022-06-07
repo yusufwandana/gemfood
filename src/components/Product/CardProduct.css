@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-product{
+    @apply flex flex-col my-5 lg:mb-0 mb-5 mx-3 rounded-lg shadow-lg;
+}
+
+.title-product{
+    @apply font-bold text-left text-lg mt-2 px-4;
+}
+
+.rating-product{
+    @apply flex font-semibold text-sm text-left px-4 mt-1;
+}
+
+.btn-order{
+    @apply bg-yellow-300 font-semibold rounded-lg mx-3 my-4 p-2;
+}
+
+.btn-order:hover{
+    @apply bg-yellow-500;
+}

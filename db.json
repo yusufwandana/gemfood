@@ -1,0 +1,53 @@
+{
+    "reviews": [
+      {
+        "id": 1624954693433,
+        "name": "Mark Zuckerberg",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus ipsam facere voluptate quasi nihil nobis. Laborum omnis porro maiores dicta nam officia nobis quis distinctio dolorum sint? Officia, ipsam maxime. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat eligendi corrupti officia dolor ipsa, culpa cupiditate.",
+        "star": 5
+      },
+      {
+        "id": 1624954693432,
+        "name": "Joko Widodo",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus ipsam facere voluptate quasi nihil nobis. Laborum omnis porro maiores dicta nam officia nobis quis distinctio dolorum sint? Officia, ipsam maxime. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat eligendi corrupti officia dolor ipsa, culpa cupiditate.",
+        "star": 4
+      },
+      {
+        "id": 1624954693436,
+        "name": "Arul Noah",
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus ipsam facere voluptate quasi nihil nobis. Laborum omnis porro maiores dicta nam officia nobis quis distinctio dolorum sint? Officia, ipsam maxime. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat eligendi corrupti officia dolor ipsa, culpa cupiditate.",
+        "star": 5
+      }
+      
+    ],
+    "content": [
+      {
+        "id": 1,
+        "title": "Jatuhnya Kejayaan Mesir",
+        "time": "10.37",
+        "desc": "207k",
+        "since": "8 bulan"
+      },
+      {
+        "id": 2,
+        "title": "Mesir di REVAMP???",
+        "time": "15.41",
+        "desc": "120k",
+        "since": "2 minggu"
+      },
+      {
+        "id": 3,
+        "title": "MISTERI MESIR KUNO",
+        "time": "09.24",
+        "desc": "91k",
+        "since": "1 bulan"
+      },
+      {
+        "id": 4,
+        "title": "Piramida Giza?",
+        "time": "19.22",
+        "desc": "751k",
+        "since": "2 tahun"
+      }
+    ]
+  }
